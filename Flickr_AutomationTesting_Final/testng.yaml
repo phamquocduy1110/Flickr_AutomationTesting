@@ -1,0 +1,8 @@
+name: Suite
+configFailurePolicy: skip
+tests:
+  - name: Test
+  classes:
+    - Test_FlickrIntroductionPage
+    - Test_FlickrLogin
+
